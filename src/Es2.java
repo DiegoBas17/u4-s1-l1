@@ -10,6 +10,7 @@ public class Es2 {
         System.out.println("dove vivi?");
         String luogo = scanner.nextLine();
         System.out.println("Ciao" + nomeUtente + " " + cognomeUtente + " che tempo fa a " +  luogo + "?");
+        System.out.println("che tempo fa a " +  luogo + "? " + "Ciao " + cognomeUtente + " " + nomeUtente);
         scanner.close();
     }
 }
